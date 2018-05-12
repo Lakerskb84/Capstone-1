@@ -1,3 +1,3 @@
-# Code-capstone
-code for my first capstone
-I am just learning python and I am having some difficulties slicing my columns and rows. 
+# Capstone 1 Project
+
+The final Write up, code, and slide deck for my first capstone project
